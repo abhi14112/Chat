@@ -1,3 +1,4 @@
 MERN stack chat application with socket.io
-![Sign in page]()
-![Home page](images/Screenshot2.png)
+![Sigin Page](images/Screenshot2.png)
+![Home page](images/Screenshot%20(2).png)
+
